@@ -1,0 +1,5 @@
+{
+  "name": "AI Media Downloader",
+  "description": "A high-fidelity media downloading utility powered by AI that identifies content and generates high-definition download options for audio and video up to 4K resolution.",
+  "requestFramePermissions": []
+}
